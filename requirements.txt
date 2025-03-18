@@ -1,0 +1,8 @@
+fpdf
+boto3
+botocore
+typing-extensions
+python-dotenv
+# PDF Generation
+reportlab>=4.0.0
+python-pptx

@@ -1,0 +1,7 @@
+__pycache__/
+deployment_package/
+tempCodeRunnerFile.ps1
+.env
+*.env
+.env*
+node_modules/
